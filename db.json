@@ -1,10 +1,22 @@
 {
   "tasks": [
     {
-      "text": "Quiz",
-      "day": "Monday",
-      "reminder": true,
+      "text": "Doctor's Appointment",
+      "day": "Saturday 1:30pm",
+      "reminder": false,
       "id": 1
+    },
+    {
+      "text": "Grocery Shopping",
+      "day": "Sunday 2pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Quiz",
+      "day": "Monday 9am",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
