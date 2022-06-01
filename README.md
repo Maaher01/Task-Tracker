@@ -1,6 +1,8 @@
 # Task Tracker
 
-This is a simple react app that lets you add new tasks along with date and time. Reminder option for tasks can be toggled on or off by clicking the check box or by double clicking it on the list. Tasks can be deleted once done.
+<img src="images/Image 1.png" height="400" width="600">
+
+This is a simple task tracking app that lets you view your current task list, add a new task, toggle task reminder on/off by clicking on the checkbox when adding the task or by double clicking the task on the task list and delete task when done.
 
 ## Features
 
@@ -8,7 +10,3 @@ This is a simple react app that lets you add new tasks along with date and time.
 - Add New Task
 - Toggle Reminder
 - Delete Task
- 
-## Requirement
-
-- NodeJs
