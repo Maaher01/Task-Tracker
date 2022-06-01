@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Maaher01/Task-Tracker.git/static/css/main.dda9fa33.chunk.css",
-    "main.js": "/Maaher01/Task-Tracker.git/static/js/main.4488bd10.chunk.js",
-    "main.js.map": "/Maaher01/Task-Tracker.git/static/js/main.4488bd10.chunk.js.map",
-    "runtime-main.js": "/Maaher01/Task-Tracker.git/static/js/runtime-main.7ffc7e3f.js",
-    "runtime-main.js.map": "/Maaher01/Task-Tracker.git/static/js/runtime-main.7ffc7e3f.js.map",
-    "static/js/2.9c697344.chunk.js": "/Maaher01/Task-Tracker.git/static/js/2.9c697344.chunk.js",
-    "static/js/2.9c697344.chunk.js.map": "/Maaher01/Task-Tracker.git/static/js/2.9c697344.chunk.js.map",
-    "static/js/3.a5c2a056.chunk.js": "/Maaher01/Task-Tracker.git/static/js/3.a5c2a056.chunk.js",
-    "static/js/3.a5c2a056.chunk.js.map": "/Maaher01/Task-Tracker.git/static/js/3.a5c2a056.chunk.js.map",
-    "index.html": "/Maaher01/Task-Tracker.git/index.html",
-    "static/css/main.dda9fa33.chunk.css.map": "/Maaher01/Task-Tracker.git/static/css/main.dda9fa33.chunk.css.map",
-    "static/js/2.9c697344.chunk.js.LICENSE.txt": "/Maaher01/Task-Tracker.git/static/js/2.9c697344.chunk.js.LICENSE.txt"
+    "main.css": "/Task-Tracker/static/css/main.dda9fa33.chunk.css",
+    "main.js": "/Task-Tracker/static/js/main.4488bd10.chunk.js",
+    "main.js.map": "/Task-Tracker/static/js/main.4488bd10.chunk.js.map",
+    "runtime-main.js": "/Task-Tracker/static/js/runtime-main.b48ca4b9.js",
+    "runtime-main.js.map": "/Task-Tracker/static/js/runtime-main.b48ca4b9.js.map",
+    "static/js/2.9c697344.chunk.js": "/Task-Tracker/static/js/2.9c697344.chunk.js",
+    "static/js/2.9c697344.chunk.js.map": "/Task-Tracker/static/js/2.9c697344.chunk.js.map",
+    "static/js/3.a5c2a056.chunk.js": "/Task-Tracker/static/js/3.a5c2a056.chunk.js",
+    "static/js/3.a5c2a056.chunk.js.map": "/Task-Tracker/static/js/3.a5c2a056.chunk.js.map",
+    "index.html": "/Task-Tracker/index.html",
+    "static/css/main.dda9fa33.chunk.css.map": "/Task-Tracker/static/css/main.dda9fa33.chunk.css.map",
+    "static/js/2.9c697344.chunk.js.LICENSE.txt": "/Task-Tracker/static/js/2.9c697344.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ffc7e3f.js",
+    "static/js/runtime-main.b48ca4b9.js",
     "static/js/2.9c697344.chunk.js",
     "static/css/main.dda9fa33.chunk.css",
     "static/js/main.4488bd10.chunk.js"
